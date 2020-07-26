@@ -1,0 +1,45 @@
+{
+  "logo": "/assets/social/undp-knowledge/logo.png",
+  "name": "UNDP Knowledge 4 All",
+  "titles": ["UNDP | Knowledge 4 All"],
+  "paragraphs": [
+    "The main objective for UNDP was to raise awareness about Knowledge4All initiatives and drive traffic globally to www.knowledge4all.org through PR and Social Media.",
+    "Entourage developed a creative content strategy aimed creating value for audiences along with intriguing, relatable content for digital platforms.",
+    "The new content strategy involving PR, Social and digital campaigns lead to gaining more than 30,000 new followers on Social channels and 100,000 new and unique website visitors."
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "url": "/assets/social/undp-knowledge/image_001.jpg",
+      "thumbUrl": "/assets/social/undp-knowledge/image_001.jpg",
+      "title": "The Future of Knowledge campaign",
+      "alt":"social media undp-knowledge campaign",
+      "highlights": ["Over 30,000 video views", "in January, 2019"]
+    },
+    {
+      "type": "image",
+      "url": "/assets/social/undp-knowledge/image_002.jpg",
+      "thumbUrl": "/assets/social/undp-knowledge/image_002.jpg",
+      "title": "The Knowledge Summit 2018 live coverage",
+      "alt":"social media undp-knowledge campaign",
+      "highlights": ["1.9m impressions", "Over 500,000 unique users reached"]
+    },
+    {
+      "type": "image",
+      "url": "/assets/social/undp-knowledge/image_003.jpg",
+      "thumbUrl": "/assets/social/undp-knowledge/image_003.jpg",
+      "title": "Celebrating Knowledge for Sustainable Development conference",
+      "alt":"social media undp-knowledge campaign",
+      "highlights": ["Video content by entourage was presented at UN HQ in New York"]
+    }
+  ],
+  "og" : {
+    "tittle": "UNDP Knowledge 4 all",
+    "type" : "article",
+    "url" : "https://www.entourageintl.com/#/social-media/undp-knowledge",
+    "description" : "raising the awareness about knowledge 4 all",
+    "image" : "https://www.entourageintl.com/assets/social/undp-knowledge/image_001.jpg"
+
+  }
+
+}

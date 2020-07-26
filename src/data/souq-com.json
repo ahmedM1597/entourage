@@ -1,0 +1,67 @@
+{
+  "name": "SOUQ.COM",
+  "titles": ["Souq.com", "White Friday Sale"],
+  "subtitle": "(currently amazon.ae)",
+  "paragraphs": [
+    "Souq.com chose entourage to promote its first ever White Friday Sale.",
+    "We launched a dynamic advertising campaign to reach our audience at every touch point (outdoor, digital, cinema, radio, online, on ground activation etc.). The campaign was launched in two phases – the awareness phase and the tactical phase, across UAE, KSA, Kuwait and Egypt.",
+    "From creative to media planning and buying, and PR, entourage leveraged all channels to maximise the reach of the campaign. The White Friday campaign received a massive response from the audiences and ensured record-breaking sales."
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "url": "/assets/adv-events/souq-com/gallery_001.jpg",
+      "thumbUrl": "/assets/adv-events/souq-com/gallery_001_thumb.jpg",
+      "alt":"advertising event souq.com"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/souq-com/gallery_002.jpg",
+      "thumbUrl": "/assets/adv-events/souq-com/gallery_002_thumb.jpg",
+      "alt":"advertising event souq.com"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/souq-com/gallery_003.jpg",
+      "thumbUrl": "/assets/adv-events/souq-com/gallery_003_thumb.jpg",
+      "alt":"advertising event souq.com"
+    },
+    {
+      "type": "video",
+      "url": "/assets/adv-events/souq-com/souq1.mp4",
+      "thumbUrl": "/assets/adv-events/souq-com/gallery_main_thumb.jpg",
+      "alt":"advertising event souq.com"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/souq-com/gallery_004.jpg",
+      "thumbUrl": "/assets/adv-events/souq-com/gallery_004_thumb.jpg",
+      "alt":"advertising event souq.com"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/souq-com/gallery_005.jpg",
+      "thumbUrl": "/assets/adv-events/souq-com/gallery_005_thumb.jpg",
+      "alt":"advertising event souq.com"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/souq-com/gallery_006.jpg",
+      "thumbUrl": "/assets/adv-events/souq-com/gallery_006_thumb.jpg",
+      "alt":"advertising event souq.com"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/souq-com/gallery_007.jpg",
+      "thumbUrl": "/assets/adv-events/souq-com/gallery_007_thumb.jpg",
+      "alt":"advertising event souq.com"
+    }
+  ],
+  "og": {
+    "title": "souq-com",
+    "type": "article",
+    "url": "https://www.entourageintl.com/#/creative-advertising-media/souq-com",
+    "description": "souq.com chose entourage to promote its first ever white friday sale",
+    "image": "https://www.entourageintl.com/assets/adv-events/souq-com/gallery_002.jpg"
+  }
+}

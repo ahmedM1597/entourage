@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Effra';
+    src: url('Effra-Bold.eot');
+    src: url('Effra-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Effra-Bold.woff2') format('woff2'),
+        url('Effra-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Effra';
+    src: url('Effra-Regular.eot');
+    src: url('Effra-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Effra-Regular.woff2') format('woff2'),
+        url('Effra-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

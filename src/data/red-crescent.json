@@ -1,0 +1,67 @@
+{
+  "name": "Red Crescent",
+  "titles": ["Emirates", "Red Crescent"],
+  "paragraphs": [
+    "The campaign was designed and built based on rebuilding the trust of the Red Crescent authority with its target audience by showcasing the successful projects delivered over the years. One of the milestone projects of Red Crescent is the Syrian refugee camp which was built on the borders of Jordan and Syria.",
+    "To showcase the refugee camp, we as Film Production Company in Dubai, took a film crew to the camp and produced a short movie, with Hussein Jassmi singing Nehna Hena (we are here), a song created especially for the film. We have showed this movie at a gala dinner attended by most of UAE Royals in Abu Dhabi.",
+    "The campaign was built and developed leveraging the media outlets of UAE to increase the fund raising during the periods of Ramadan, Eid and end of year celebrations.",
+    "As the media buying agency in Dubai, we made sure that the campaign drove positive results across all KPIs that led to an exponential increase in the collection of funds, exceeding all targets."
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "url": "/assets/adv-events/red-crescent/gallery_001.jpg",
+      "thumbUrl": "/assets/adv-events/red-crescent/gallery_001_thumb.jpg",
+      "alt":"advertising event red-crescent"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/red-crescent/gallery_002.jpg",
+      "thumbUrl": "/assets/adv-events/red-crescent/gallery_002_thumb.jpg",
+      "alt":"advertising event red-crescent"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/red-crescent/gallery_003.jpg",
+      "thumbUrl": "/assets/adv-events/red-crescent/gallery_003_thumb.jpg",
+      "alt":"advertising event red-crescent"
+    },
+    {
+      "type": "video",
+      "url": "/assets/adv-events/red-crescent/red-crescent.mp4",
+      "thumbUrl": "/assets/adv-events/red-crescent/gallery_main_thumb.jpg",
+      "alt":"advertising event red-crescent"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/red-crescent/gallery_004.jpg",
+      "thumbUrl": "/assets/adv-events/red-crescent/gallery_004_thumb.jpg",
+      "alt":"advertising event red-crescent"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/red-crescent/gallery_005.jpg",
+      "thumbUrl": "/assets/adv-events/red-crescent/gallery_005_thumb.jpg",
+      "alt":"advertising event red-crescent"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/red-crescent/gallery_006.jpg",
+      "thumbUrl": "/assets/adv-events/red-crescent/gallery_006_thumb.jpg",
+      "alt":"advertising event red-crescent"
+    },
+    {
+      "type": "image",
+      "url": "/assets/adv-events/red-crescent/gallery_007.jpg",
+      "thumbUrl": "/assets/adv-events/red-crescent/gallery_007_thumb.jpg",
+      "alt":"advertising event red-crescent"
+    }
+  ],
+  "og": {
+    "title": "red-crescent",
+    "type": "article",
+    "url": "https://www.entourageintl.com/#/creative-advertising-media/red-crescent",
+    "description": "The campaign was designed and built based on rebuilding the trust of the Red Crescent authority with its target audience by showcasing the successful projects delivered over the years",
+    "image": "https://www.entourageintl.com/assets/adv-events/red-crescent/gallery_002.jpg"
+  }
+}

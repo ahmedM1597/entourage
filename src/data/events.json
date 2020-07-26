@@ -1,0 +1,44 @@
+{
+  "title": "CORPORATE EVENTS & CONFERENCES ",
+  "description": [
+    "Our expertise lie in offline and online events and we have produced some of the biggest public and private sector events and conferences in the last decade. Speaker management, logistics management, event site construction, production, videography, photography, sound, etc., basically, we provide end-to-end event managements for any and every event, whether live or virtual."
+  ],
+  "items": [
+    {
+      "name": "Google Brand Experience",
+      "titles": ["Google", "Brand", "Experience"],
+      "url": "/corporate-events-conferences/google-brand",
+      "thumbUrl": "/assets/events/google/thumb.jpg"
+    },
+    {
+      "name": "E-Commerce Forum",
+      "titles": ["E-Commerce", "Forum"],
+      "url": "/corporate-events-conferences/e-commerce-forum",
+      "thumbUrl": "/assets/events/e-commerce-forum/thumb.jpg"
+    },
+    {
+      "name": "Knowledge Summit",
+      "titles": ["Knowledge", "Summit"],
+      "url": "/corporate-events-conferences/knowledge-summit",
+      "thumbUrl": "/assets/events/knowledge-summit/thumb.jpg"
+    },
+    {
+      "name": "World Government Summit",
+      "titles": ["World", "Government", "Summit"],
+      "url": "/corporate-events-conferences/world-government-summit",
+      "thumbUrl": "/assets/events/world-government-summit/thumb.jpg"
+    },
+    {
+      "name": "Youtube Brand Experience",
+      "titles": ["Youtube", "Brand", "Experience"],
+      "url": "/corporate-events-conferences/youtube-brand",
+      "thumbUrl": "/assets/events/youtube/thumb.jpg"
+    },
+    {
+      "name": "Digital Visual Media Forum",
+      "titles": ["Digital", "Visual Media", "Forum"],
+      "url": "/corporate-events-conferences/digital-visual-media-forum",
+      "thumbUrl": "/assets/events/digital-visual-media-forum/thumb.jpg"
+    }
+  ]
+}

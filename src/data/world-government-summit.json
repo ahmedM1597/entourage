@@ -1,0 +1,66 @@
+{
+  "name": "World Government Summit",
+  "titles": ["The World", "Government", "Summit"],
+  "paragraphs": [
+    "Our mandate was to manage the 10,000 plus attendees from registration and logistics, marketing, sponsorships and on site management; most of the attendees were VIPs, heads of state and ministers along with the heads of world’s most admired companies: Uber, Tesla, LinkedIn to name a few.",
+    "Our collaborative and strategic approach since 2016 ensured that an event of this magnitude was mapped out and tested in theoretical prototypes and simulations months before its actual launch.",
+    "Being a creative agency, our design team implemented stand out themes to bring the registration zones alive showcasing WGS and PMO in their best form. Leveraging in-depth planning, attention to details and passion for perfection, Dubai’s reputation was enhanced with a flawless execution throughout the three days event."
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "url": "/assets/events/world-government-summit/gallery_001.jpg",
+      "alt":"corporate summits the world goverement event",
+      "thumbUrl": "/assets/events/world-government-summit/gallery_001_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/world-government-summit/gallery_002.jpg",
+      "alt":"corporate summits the world goverement event",
+      "thumbUrl": "/assets/events/world-government-summit/gallery_002_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/world-government-summit/gallery_003.jpg",
+      "alt":"corporate summits the world goverement event",
+      "thumbUrl": "/assets/events/world-government-summit/gallery_003_thumb.jpg"
+    },
+    {
+      "type": "video",
+      "url": "/assets/events/world-government-summit/video.mp4",
+      "alt":"corporate summits the world goverement event",
+      "thumbUrl": "/assets/events/world-government-summit/gallery_main_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/world-government-summit/gallery_004.jpg",
+      "alt":"corporate summits the world goverement event",
+      "thumbUrl": "/assets/events/world-government-summit/gallery_004_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/world-government-summit/gallery_005.jpg",
+      "alt":"corporate summits the world goverement event",
+      "thumbUrl": "/assets/events/world-government-summit/gallery_005_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/world-government-summit/gallery_006.jpg",
+      "alt":"corporate summits the world goverement event",
+      "thumbUrl": "/assets/events/world-government-summit/gallery_006_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/world-government-summit/gallery_007.jpg",
+      "alt":"corporate summits the world goverement event",
+      "thumbUrl": "/assets/events/world-government-summit/gallery_007_thumb.jpg"
+    }
+  ],
+  "og": {
+    "title": "world-government-summit",
+    "type": "article",
+    "url": "https://www.entourageintl.com/#/corporate-events-conferences/world-government-summit",
+    "description": " our design team implemented stand out themes to bring the registration zones alive showcasing WGS and PMO in their best form",
+    "image": "https://www.entourageintl.com/assets/events/world-government-summit/gallery_002.jpg"
+  }
+}

@@ -1,0 +1,5 @@
+# Allow All agent with hash
+User-agent: *
+Allow: */*
+
+Sitemap: https://www.entourageintl.com/sitemap.xml

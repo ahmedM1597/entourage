@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Dubai",
+    "thumbUrl": "/assets/images/dubai_thumb.png",
+    "address": ["8th Floor", "Concord Tower", "Dubai Media City"],
+    "phones": ["+971 4 33 888 34"]
+  },
+  {
+    "name": "Riyadh",
+    "thumbUrl": "/assets/images/riyadh_thumb.png",
+    "address": ["2nd Floor", "Twin Towers", "Street #90, Al Olaya"],
+    "phones": ["+966 114 19 19 19"]
+  },
+  {
+    "name": "New York",
+    "thumbUrl": "/assets/images/newyork_thumb.png",
+    "address": ["40 Wall St. 28th Floor", "NY 10005"],
+    "phones": ["+1 (646) 512 5684"]
+  },
+  {
+    "name": "Abu Dhabi",
+    "thumbUrl": "/assets/images/abudhabi_thumb.png",
+    "address": ["6th Floor", "Building 6", "Khalifa Park", "Two Four 54"],
+    "phones": ["+971 4 33 888 34"]
+  },
+  {
+    "name": "Jeddah",
+    "thumbUrl": "/assets/images/jeddah_thumb.png",
+    "address": ["10th Floor", "Zahran Business Centre", "Prince Sultan Street"],
+    "phones": ["+966 114 19 19 19"]
+  },
+  {
+    "name": "Cairo",
+    "thumbUrl": "/assets/images/cairo_thumb.png",
+    "address": ["Coming soon"]
+  }
+]

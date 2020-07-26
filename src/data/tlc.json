@@ -1,0 +1,41 @@
+{
+  "logo": "/assets/social/tlc/logo.png",
+  "name": "TLC",
+  "titles": ["TLC"],
+  "paragraphs": [
+    "TLC, part of the Discovery Network, wanted to reach more audiences in the middle east, especially the Arab audiences. As an integrated communications agency, we developed a whole new content strategy with focus on Arabized content to reach the Arab audiences. The content strategy was supported by strategic advertising to optimize all channels of communications. We achieved a 10% growth in organic followership and 30% growth in engagement."
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "url": "/assets/social/tlc/image_001.jpg",
+      "thumbUrl": "/assets/social/tlc/image_001.jpg",
+      "title": "Cake Boss, Season 9",
+      "alt":"social media tlc campaign",
+      "highlights": ["6 Million users reached", "1 Million video reviews"]
+    },
+    {
+      "type": "image",
+      "url": "/assets/social/tlc/image_002.jpg",
+      "thumbUrl": "/assets/social/tlc/image_002.jpg",
+      "title": "My big fat fabulous life, Season 3",
+      "alt":"social media tlc campaign",
+      "highlights": ["500K impressions", "350K video views"]
+    },
+    {
+      "type": "image",
+      "url": "/assets/social/tlc/image_003.jpg",
+      "thumbUrl": "/assets/social/tlc/image_003.jpg",
+      "title": "Say yes to the dress 2017",
+      "alt":"social media tlc campaign",
+      "highlights": ["100k impressions", "15% engagement rate"]
+    }
+  ],
+  "og": {
+    "title": "TLC campaign",
+    "type": "article",
+    "url": "https://www.entourageintl.com/#/social-media/tlc",
+    "description": "developed a whole new content strategy with focus on Arabized content to reach the Arab audiences",
+    "image": "https://www.entourageintl.com/assets/social/tlc/image_001.jpg"
+  }
+}

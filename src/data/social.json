@@ -1,0 +1,32 @@
+{
+  "title": "PR & SOCIAL MEDIA",
+  "description": [
+    "We offer integrated communication services. Bringing the best of PR, Social and Digital Media together for a more holistic approach. From Communications and Content Strategy to content development in different formats, Media Relations, Digital Advertising, social media management, Community Management and Reporting, we can do it all."
+  ],
+  "items": [
+    {
+      "name": "UNDP Knowledge 4 All",
+      "titles": ["UNDP", "Knowledge 4", "All"],
+      "url": "/social-media/undp-knowledge",
+      "thumbUrl": "/assets/social/undp-knowledge/thumb.jpg"
+    },
+    {
+      "name": "Discovery Channel",
+      "titles": ["Discovery", "Channel"],
+      "url": "/social-media/discovery-channel",
+      "thumbUrl": "/assets/social/discovery-channel/thumb.jpg"
+    },
+    {
+      "name": "Konica Minolta",
+      "titles": ["Konica", "Minolta"],
+      "url": "/social-media/konica-minolta",
+      "thumbUrl": "/assets/social/konica-minolta/thumb.jpg"
+    },
+    {
+      "name": "TLC",
+      "titles": ["TLC"],
+      "url": "/social-media/tlc",
+      "thumbUrl": "/assets/social/tlc/thumb.jpg"
+    }
+  ]
+}

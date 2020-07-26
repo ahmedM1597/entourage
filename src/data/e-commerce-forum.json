@@ -1,0 +1,66 @@
+{
+  "name": "E-Commerce Forum",
+  "titles": ["E-Commerce", "Forum"],
+  "paragraphs": [
+    "Entourage was tasked with the massive responsibility of building the Ecommerce Forum from scratch. From developing the content, both stage and screen, to identifying the customer journey, developing the main agenda topics and discussion points, entourage managed all the aspects.",
+    "We created the biggest platform for small business owners and e-commerce entrepreneurs in the country, a platform where they can share knowledge, learn from established entrepreneurs, meet the stalwarts in the industry and seek guidance from government entities in setting up their businesses. In two months, we set the agenda and the schedule, framing topics, inviting industry veterans to speak at the event, logistics management, developing the registration process, media planning and buying and on-ground event management.",
+    "As the biggest event management company in Saudi we made sure the first edition of the forum was a roaring success with more 25000 attendees."
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "url": "/assets/events/e-commerce-forum/gallery_001.jpg",
+      "thumbUrl": "/assets/events/e-commerce-forum/gallery_001_thumb.jpg",
+      "alt":"corporate forum e-commerce"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/e-commerce-forum/gallery_002.jpg",
+      "thumbUrl": "/assets/events/e-commerce-forum/gallery_002_thumb.jpg",
+      "alt":"corporate forum e-commerce"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/e-commerce-forum/gallery_003.jpg",
+      "thumbUrl": "/assets/events/e-commerce-forum/gallery_003_thumb.jpg",
+      "alt":"corporate forum e-commerce"
+    },
+    {
+      "type": "video",
+      "url": "/assets/events/e-commerce-forum/e-commerce.mp4",
+      "thumbUrl": "/assets/events/e-commerce-forum/gallery_main_thumb.jpg",
+      "alt":"corporate forum e-commerce"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/e-commerce-forum/gallery_004.jpg",
+      "thumbUrl": "/assets/events/e-commerce-forum/gallery_004_thumb.jpg",
+      "alt":"corporate forum e-commerce"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/e-commerce-forum/gallery_005.jpg",
+      "thumbUrl": "/assets/events/e-commerce-forum/gallery_005_thumb.jpg",
+      "alt":"corporate forum e-commerce"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/e-commerce-forum/gallery_006.jpg",
+      "thumbUrl": "/assets/events/e-commerce-forum/gallery_006_thumb.jpg",
+      "alt":"corporate forum e-commerce"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/e-commerce-forum/gallery_007.jpg",
+      "thumbUrl": "/assets/events/e-commerce-forum/gallery_007_thumb.jpg",
+      "alt":"corporate forum e-commerce"
+    }
+  ],
+  "og": {
+    "title": "e-commerce- forum",
+    "type": "article",
+    "url": "https://www.entourageintl.com/#/corporate-events-conferences/e-commerce-forum",
+    "description": "As the biggest event management company in Saudi we made sure the first edition of the forum was a roaring success with more 25000 attendees",
+    "image": "https://www.entourageintl.com/assets/events/e-commerce-forum/gallery_006.jpg"
+  }
+}

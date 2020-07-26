@@ -1,0 +1,64 @@
+{
+  "name": "Technology and Digital",
+  "titles": ["Technology", "and", "Digital"],
+  "paragraphs": [
+    "We have a huge team of tech geeks and love to experiment with all the new technology available to us. We use technology to make events, products and brands more interactive and engaging. Augmented reality, Virtual reality, Mixed Reality, Extended Reality, Kinetics, Robotics, RFID, projection mapping, Drone Technology, you name it, we have used all of it."
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "url": "/assets/technology/entourage/gallery_001.jpg",
+      "thumbUrl": "/assets/technology/entourage/gallery_001_thumb.jpg",
+      "alt": "technology and digital event"
+    },
+    {
+      "type": "image",
+      "url": "/assets/technology/entourage/gallery_002.jpg",
+      "thumbUrl": "/assets/technology/entourage/gallery_002_thumb.jpg",
+      "alt": "technology and digital event"
+    },
+    {
+      "type": "image",
+      "url": "/assets/technology/entourage/gallery_003.jpg",
+      "thumbUrl": "/assets/technology/entourage/gallery_003_thumb.jpg",
+      "alt": "technology and digital event"
+    },
+    {
+      "type": "video",
+      "url": "/assets/technology/entourage/entourageTech.mp4",
+      "thumbUrl": "/assets/technology/entourage/gallery_main_thumb.jpg",
+      "alt": "technology and digital event"
+    },
+    {
+      "type": "image",
+      "url": "/assets/technology/entourage/gallery_004.jpg",
+      "thumbUrl": "/assets/technology/entourage/gallery_004_thumb.jpg",
+      "alt": "technology and digital event"
+    },
+    {
+      "type": "image",
+      "url": "/assets/technology/entourage/gallery_005.jpg",
+      "thumbUrl": "/assets/technology/entourage/gallery_005_thumb.jpg",
+      "alt": "technology and digital event"
+    },
+    {
+      "type": "image",
+      "url": "/assets/technology/entourage/gallery_006.jpg",
+      "thumbUrl": "/assets/technology/entourage/gallery_006_thumb.jpg",
+      "alt": "technology and digital event"
+    },
+    {
+      "type": "image",
+      "url": "/assets/technology/entourage/gallery_007.jpg",
+      "thumbUrl": "/assets/technology/entourage/gallery_007_thumb.jpg",
+      "alt": "technology and digital event"
+    }
+  ],
+  "og": {
+    "title": "technology and digital",
+    "type": "image",
+    "url": "https://www.entourageintl.com/#/technology-digital/entourage",
+    "description": "the covarege of the technology and digital processes",
+    "image": "https://www.entourageintl.com/assets/technology/entourage/gallery_005.jpg"
+  }
+}

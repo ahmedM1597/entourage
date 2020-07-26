@@ -1,0 +1,67 @@
+{
+  "name": "Google Brand Experience",
+  "titles": ["Google"],
+  "paragraphs": [
+    "Entourage was chosen by Google to be their strategic partner for events and marketing in the region. We have been working with the tech giant since 2011 on a daily basis.  We conceptualize and manage a series of stakeholder events like roadshows, conferences, exhibitions, creative events and special executions aimed at specific sectors and showcasing upcoming Google products and services.",
+    "From creative planning and designing to brand engagement, building brand experiences target google audiences across the region, entourage has done it all.",
+    "As one of the leading event management companies in Dubai we created the Think Travel, Think Video and many more such events across the GCC, delivering marketing calendar of stakeholder activation projects from across GCC and ME, matching global engagement and brand experience standards.",
+    "Middle East Event Awards recognized Google – entourage events across several years."
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "url": "/assets/events/google/gallery_001.jpg",
+      "thumbUrl": "/assets/events/google/gallery_001_thumb.jpg",
+      "alt":"corporate event google brand"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/google/gallery_002.jpg",
+      "thumbUrl": "/assets/events/google/gallery_002_thumb.jpg",
+      "alt":"corporate event google brand"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/google/gallery_003.jpg",
+      "thumbUrl": "/assets/events/google/gallery_003_thumb.jpg",
+      "alt":"corporate event google brand"
+    },
+    {
+      "type": "video",
+      "url": "/assets/events/google/google_island.mp4",
+      "thumbUrl": "/assets/events/google/gallery_main_thumb.jpg",
+      "alt":"corporate event google brand"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/google/gallery_004.jpg",
+      "thumbUrl": "/assets/events/google/gallery_004_thumb.jpg",
+      "alt":"corporate event google brand"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/google/gallery_005.jpg",
+      "thumbUrl": "/assets/events/google/gallery_005_thumb.jpg",
+      "alt":"corporate event google brand"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/google/gallery_006.jpg",
+      "thumbUrl": "/assets/events/google/gallery_006_thumb.jpg",
+      "alt":"corporate event google brand"
+    },
+    {
+      "type": "video",
+      "url": "/assets/events/google/insider_1A.mp4",
+      "thumbUrl": "/assets/events/google/gallery_007_thumb.jpg",
+      "alt":"corporate event google brand"
+    }
+  ],
+  "og": {
+    "title": "google- brand",
+    "type": "article",
+    "url": "https://www.entourageintl.com/#/corporate-events-conferences/google-brand",
+    "description": "From creative planning and designing to brand engagement, building brand experiences target google audiences across the region, entourage has done it all",
+    "image": "https://www.entourageintl.com/assets/events/google/gallery_005.jpg"
+  }
+}

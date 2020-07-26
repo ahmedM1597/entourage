@@ -1,0 +1,51 @@
+{
+  "title": "CREATIVE & MEDIA",
+  "description": [
+    "Our creative team is completely equipped with planners, designers, 3D artists and art directors to conceptualize and execute all your creative requirements. From creative online & print ad campaigns to websites, brand identities, 3D models, corporate video and animation productions, is all done in house."
+  ],
+  "items": [
+    {
+      "name": "Misr Wahashtona",
+      "titles": ["Misr", "Wahashtona"],
+      "url": "/creative-advertising-media/misr-wahashtona",
+      "thumbUrl": "/assets/adv-events/misr-wahashtona/thumb.jpg"
+    },
+    {
+      "name": "Hajj Campaign 2019",
+      "titles": ["Hajj", "Campaign", "2019"],
+      "url": "/creative-advertising-media/hajj-campaign-2019",
+      "thumbUrl": "/assets/adv-events/hajj-campaign-2019/thumb.jpg"
+    },
+    {
+      "name": "Red Crescent",
+      "titles": ["Red", "Crescent"],
+      "url": "/creative-advertising-media/red-crescent",
+      "thumbUrl": "/assets/adv-events/red-crescent/thumb.jpg"
+    },
+    {
+      "name": "SOUQ.COM",
+      "titles": ["SOUQ.", "COM"],
+      "url": "/creative-advertising-media/souq-com",
+      "thumbUrl": "/assets/adv-events/souq-com/thumb.jpg"
+    },
+    {
+      "name": "Dubai Cares",
+      "titles": ["Dubai", "Cares"],
+      "url": "/creative-advertising-media/dubai-cares",
+      "thumbUrl": "/assets/adv-events/dubai-cares/thumb.jpg"
+    },
+    {
+      "name": "Misr Orayba",
+      "titles": ["Misr", "Orayba"],
+      "url": "/creative-advertising-media/misr-orayba",
+      "thumbUrl": "/assets/adv-events/misr-orayba/thumb.jpg"
+    },
+
+    {
+      "name": "Yes It's Jordan",
+      "titles": ["Yes It's jordan"],
+      "url": "/creative-advertising-media/yes-its-jordan",
+      "thumbUrl": "/assets/adv-events/yes-its-jordan/thumb.jpg"
+    }
+  ]
+}

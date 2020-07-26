@@ -1,0 +1,43 @@
+{
+  "logo": "/assets/social/discovery-channel/logo.png",
+  "name": "Discovery Channel",
+  "titles": ["Discovery Channel"],
+  "paragraphs": [
+    "Discovery Arabia wanted to reach Middle East audiences and entourage suggested a holistic Communications approach to meet the goal.",
+    "We devised a whole new marketing strategy including PR, advertising, content and communication tactics that would appeal to the Arab audiences.",
+    "The strategy lead to 40% growth in engagement as well 14% organic growth in followership."
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "url": "/assets/social/discovery-channel/image_001.jpg",
+      "thumbUrl": "/assets/social/discovery-channel/image_001.jpg",
+      "title": "Shark Week 2017",
+      "alt":"social media discovery channel campaign",
+      "highlights": ["Over 4 Million users reached", "25% engagement rate"]
+    },
+    {
+      "type": "image",
+      "url": "/assets/social/discovery-channel/image_002.jpg",
+      "thumbUrl": "/assets/social/discovery-channel/image_002.jpg",
+      "title": "Mosquito",
+      "alt":"social media discovery channel campaign",
+      "highlights": ["332,154 impressions over", "Over 50,000 web clicks"]
+    },
+    {
+      "type": "image",
+      "url": "/assets/social/discovery-channel/image_003.jpg",
+      "thumbUrl": "/assets/social/discovery-channel/image_003.jpg",
+      "title": "Harely and the Davidsons",
+      "alt":"social media discovery channel campaign",
+      "highlights": ["500k impressions", "20% engagement rate"]
+    }
+  ],
+  "og" : {
+    "title": "discovery channel campaign",
+    "type": "article",
+    "url": "https://www.entourageintl.com/#/social-media/discovery-channel",
+    "description": "adevised whole new marketing strategy that would appeal to the arab audiences",
+    "image": "https://www.entourageintl.com/assets/social/discovery-channel/image_001.jpg"
+  }
+}

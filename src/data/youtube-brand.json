@@ -1,0 +1,65 @@
+{
+  "name": "Youtube Brand Experience",
+  "titles": ["Youtube", "Brand", "Experience"],
+  "paragraphs": [
+    "Entourage was appointed by YouTube to develop the YouTube Brand Experience event. The showcase event for Middle East stakeholders was rolled out with stellar insights for advertisers and content creators, alike.",
+    "Apart from the ongoing on-ground activations that picked up rave reviews on social media, every guest journey and the overall brand experience were one of a kind, as the best event agency in Dubai we continue to raise the bar for all YouTube Middle East events."
+  ],
+  "gallery": [
+    {
+      "type": "image",
+      "url": "/assets/events/youtube/gallery_001.jpg",
+      "alt":"corporate event youtube brand",
+      "thumbUrl": "/assets/events/youtube/gallery_001_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/youtube/gallery_002.jpg",
+      "alt":"corporate event youtube brand",
+      "thumbUrl": "/assets/events/youtube/gallery_002_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/youtube/gallery_003.jpg",
+      "alt":"corporate event youtube brand",
+      "thumbUrl": "/assets/events/youtube/gallery_003_thumb.jpg"
+    },
+    {
+      "type": "video",
+      "url": "/assets/events/youtube/youtube final event.mp4",
+      "alt":"corporate event youtube brand",
+      "thumbUrl": "/assets/events/youtube/gallery_main_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/youtube/gallery_004.jpg",
+      "alt":"corporate event youtube brand",
+      "thumbUrl": "/assets/events/youtube/gallery_004_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/youtube/gallery_005.jpg",
+      "alt":"corporate event youtube brand",
+      "thumbUrl": "/assets/events/youtube/gallery_005_thumb.jpg"
+    },
+    {
+      "type": "image",
+      "url": "/assets/events/youtube/gallery_006.jpg",
+      "alt":"corporate event youtube brand",
+      "thumbUrl": "/assets/events/youtube/gallery_006_thumb.jpg"
+    },
+    {
+      "type": "video",
+      "url": "/assets/events/youtube/YouTube Pulse.mp4",
+      "alt":"corporate event youtube brand",
+      "thumbUrl": "/assets/events/youtube/gallery_007_thumb.jpg"
+    }
+  ],
+  "og": {
+    "title": "youtube brand",
+    "type": "article",
+    "url": "https://www.entourageintl.com/assets/events/world-government-summit/gallery_002.jpg",
+    "description": "Entourage was appointed by YouTube to develop the YouTube Brand Experience event",
+    "image": "https://www.entourageintl.com/assets/events/youtube/gallery_002.jpg"
+  }
+}
